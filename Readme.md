@@ -1,4 +1,4 @@
-# The ETL Process
+# ETL Process
 
 ## We have a set of customer sales data that we want to extract information from.
 - For each customer, we want to know:
